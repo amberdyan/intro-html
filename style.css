@@ -60,7 +60,8 @@ ul {
 ul:before {
     content: 'Quick links';
     font-family: 'Permanent Marker', cursive;
-    color: rgb(255, 237, 114);
+    color: rgb(255, 234, 90);
+    background-color: none;
     font-size: 20pt;
 }
 
